@@ -1,0 +1,26 @@
+{
+  "name": "hexlet-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalize.js",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "tests": {
+    "cap-test": "tests/capitalize.test.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MacNoob/hexlet-tests-lessons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MacNoob/hexlet-tests-lessons/issues"
+  },
+  "homepage": "https://github.com/MacNoob/hexlet-tests-lessons#readme"
+}
